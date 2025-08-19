@@ -19,11 +19,30 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7dea6baec41cf02c80217cb7674bc89898d7f526",
     "author": "Alous12",
     "commit": {
       "date": "2025-08-19T04:26:55.000Z",
       "message": "Ultimo Cambio",
+      "url": "https://github.com/Alous12/Ingieneria-de-Software2/commit/7dea6baec41cf02c80217cb7674bc89898d7f526"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 1,
+      "deletions": 0,
+      "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-08-19T04:34:29.000Z",
+      "message": "Ultimo",
       "url": "https://github.com/Alous12/Ingieneria-de-Software2/commit/HEAD"
     },
     "stats": {

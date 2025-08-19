@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "2aaa6a0ddc700bb564aef546a062ac0060a1d914",
     "author": "Alous12",
     "commit": {
       "date": "2025-08-19T04:21:47.000Z",
       "message": "Multiplicador",
-      "url": "https://github.com/Alous12/Ingieneria-de-Software2/commit/HEAD"
+      "url": "https://github.com/Alous12/Ingieneria-de-Software2/commit/2aaa6a0ddc700bb564aef546a062ac0060a1d914"
     },
     "stats": {
       "total": 15,
       "additions": 14,
       "deletions": 1,
+      "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-08-19T04:26:55.000Z",
+      "message": "Ultimo Cambio",
+      "url": "https://github.com/Alous12/Ingieneria-de-Software2/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 1,
+      "deletions": 0,
       "date": "2025-08-19"
     },
     "coverage": 100,

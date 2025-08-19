@@ -19,5 +19,6 @@ form.addEventListener("submit", (event) => {
   } else if (accion === "multiplicar-button") {
     div.innerHTML = "<p>" + multiplicar(firstNumber, secondNumber) + "</p>";
   }
+  
 });
 

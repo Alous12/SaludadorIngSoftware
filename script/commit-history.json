@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4c81c833775a77742e928ecb031d23177c7d8c6b",
     "author": "Alous12",
     "commit": {
       "date": "2025-08-26T17:14:21.000Z",
       "message": "feat(src): agregar saludo con nombre del usuario",
-      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/HEAD"
+      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/4c81c833775a77742e928ecb031d23177c7d8c6b"
     },
     "stats": {
       "total": 26,
@@ -90,6 +90,25 @@
       "date": "2025-08-26"
     },
     "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-08-26T17:23:06.000Z",
+      "message": "feat(src): agregar saludo dependiendo la hora del dia",
+      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 17,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 75,
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"

@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "382b7f6c7d634b469ba64e64e254049b372cf53f",
     "author": "Alous12",
     "commit": {
       "date": "2025-08-26T16:23:38.000Z",
       "message": "feat(src): Se agrego saludo simple (Hola)",
-      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/HEAD"
+      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/382b7f6c7d634b469ba64e64e254049b372cf53f"
     },
     "stats": {
       "total": 72,
       "additions": 23,
       "deletions": 49,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-08-26T17:14:21.000Z",
+      "message": "feat(src): agregar saludo con nombre del usuario",
+      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 19,
+      "deletions": 7,
       "date": "2025-08-26"
     },
     "coverage": 100,

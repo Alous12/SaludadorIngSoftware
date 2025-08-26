@@ -1,7 +1,14 @@
 
-function saludo(nombre) {
+function saludo(nombre,genero) {
     const hora = new Date().getHours();
     let texto= "";
+    if(genero === "M"){
+        nombre = "Sr. " + nombre;
+    }
+    else if(genero === "F"){
+        nombre = "Sra. " + nombre;
+    }
+    
     if(hora < 12 && hora >= 6){
         texto = "Hola Buenos días " + nombre;
     }

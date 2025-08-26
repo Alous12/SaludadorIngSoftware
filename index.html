@@ -7,6 +7,11 @@
     <h1>Saludador</h1>
     <form id="saludar-form">
       <input type="text" id="nombre" name="nombre" placeholder="Introduce tu nombre" required>
+      <select id="genero" name="genero" required>
+        <option value="" disabled selected>Selecciona tu género</option>
+        <option value="M">Masculino</option>
+        <option value="F">Femenino</option>
+      </select>
       <button type="submit">Saludar</button>
     </form>
     <p id="saludo"></p>

@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0cc1b33320e94b0d3540b171082496211d6c8e7d",
     "author": "Alous12",
     "commit": {
       "date": "2025-08-26T17:55:39.000Z",
       "message": "feat(src): agregar saludo dependiendo de la edad",
-      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/HEAD"
+      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/0cc1b33320e94b0d3540b171082496211d6c8e7d"
     },
     "stats": {
       "total": 41,
@@ -147,6 +147,25 @@
       "date": "2025-08-26"
     },
     "coverage": 87.5,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-08-26T18:07:46.000Z",
+      "message": "feat(src): agregar saludo dependiendo su idioma (Ingles o Español)",
+      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 110,
+      "additions": 70,
+      "deletions": 40,
+      "date": "2025-08-26"
+    },
+    "coverage": 89.47,
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"

@@ -38,18 +38,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f456e0b180bd3b170eb084f1bc51b74890e520c4",
     "author": "Alous12",
     "commit": {
       "date": "2025-08-19T04:34:29.000Z",
       "message": "Ultimo",
-      "url": "https://github.com/Alous12/Ingieneria-de-Software2/commit/HEAD"
+      "url": "https://github.com/Alous12/Ingieneria-de-Software2/commit/f456e0b180bd3b170eb084f1bc51b74890e520c4"
     },
     "stats": {
       "total": 1,
       "additions": 1,
       "deletions": 0,
       "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alous12",
+    "commit": {
+      "date": "2025-08-26T16:23:38.000Z",
+      "message": "feat(src): Se agrego saludo simple (Hola)",
+      "url": "https://github.com/Alous12/SaludadorIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 72,
+      "additions": 23,
+      "deletions": 49,
+      "date": "2025-08-26"
     },
     "coverage": 100,
     "test_count": 1,
